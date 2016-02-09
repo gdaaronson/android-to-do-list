@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="Save">Save</string>
+    <string name="hint">Your plans for </string>
+    <string name="save_successful">The save was successful</string>
+    <string-array name="days_of_the_week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>
